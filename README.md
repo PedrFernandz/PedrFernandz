@@ -1,4 +1,4 @@
-# Yo👋
+# yo
 
 computer science student from brazil
 
